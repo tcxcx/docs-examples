@@ -117,6 +117,10 @@ See [`user-controlled-wallets-social/README.md`](./user-controlled-wallets-socia
 
 Run `npm run server` and `npm run dev` in separate terminals.
 
+### [`modular-wallets-mobile-expo-starter`](./modular-wallets-mobile-expo-starter)
+
+Source integration kit for native passkey registration, reconnect, and signing on Expo iOS and Android, plus a single-owner modular wallet adapter. Install into an existing Expo development build; see its README for native setup and outstanding physical-device acceptance checks.
+
 ## License
 
 Apache 2.0 — see [LICENSE](./LICENSE).
