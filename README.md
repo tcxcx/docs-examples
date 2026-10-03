@@ -119,7 +119,7 @@ Run `npm run server` and `npm run dev` in separate terminals.
 
 ### [`modular-wallets-mobile-expo-starter`](./modular-wallets-mobile-expo-starter)
 
-Source integration kit for native passkey registration, reconnect, and signing on Expo iOS and Android, plus a single-owner modular wallet adapter. Install into an existing Expo development build; see its README for native setup and outstanding physical-device acceptance checks.
+A single-screen Expo testnet wallet for iOS and Android: create or reconnect a native passkey, unlock with Face ID / Touch ID / Android biometrics, receive test USDC, and review and approve a transfer. Includes the official Circle native bridge, app identity setup, and runnable checks; signed physical-device acceptance remains pending.
 
 ## License
 
